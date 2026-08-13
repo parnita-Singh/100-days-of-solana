@@ -1,4 +1,3 @@
-# 100-days-of-solana
 # 100 Days of Solana 🚀
 
 A personal challenge to build on Solana every day for 100 days — 
