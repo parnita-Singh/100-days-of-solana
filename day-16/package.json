@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@solana/kit": "^7.0.0"
+  }
+}
