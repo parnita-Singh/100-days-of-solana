@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@solana-program/system": "^0.13.0",
+    "@solana/kit": "^7.1.0"
+  }
+}
