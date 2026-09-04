@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@solana-program/token": "^0.16.1",
+    "@solana/kit": "^8.2.0"
+  }
+}
