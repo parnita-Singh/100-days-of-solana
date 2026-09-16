@@ -1,0 +1,13 @@
+oday I went back to Solana Explorer and looked at one of my own Devnet transactions.
+ 
+What stood out to me was how much information is available from a single transaction. I could see the accounts involved, the instructions executed, the programs invoked, the transaction fee, slot, and confirmation status all from something that initially looks like just a transaction signature.
+ 
+Coming from Web2, I’m used to seeing a simplified result like:
+ 
+✅ Payment successful
+ 
+On-chain, I can actually inspect what happened underneath that result.
+ 
+That made the explorer feel less like a website showing blockchain data and more like a window into the blockchain itself.
+ 
+I've been using Solana Explorer throughout this journey, and it's becoming one of my favorite tools for connecting the concepts I'm learning in code with what is actually happening on-chain.

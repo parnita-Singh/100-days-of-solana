@@ -1,0 +1,15 @@
+Today I spent some time exploring Token-2022 Program on Solana Explorer -  mainnet and looking at what actually happens on-chain instead of just interacting with the blockchain through code.
+ 
+One thing I found interesting was exploring the Token-2022 program and comparing its activity across Solana's network.
+ 
+What stood out to me was how much information is available publicly. From a single account or transaction, I can inspect things like instructions, accounts involved, signatures, fees, slots, and timestamps.
+ 
+Coming from Web2, I'm used to databases where most of this information would live behind an API or internal dashboard. On Solana, I can open an explorer and inspect the underlying activity myself.
+ 
+It also made the idea of a public blockchain feel much more real to me. The things I've been querying through RPC aren't abstract concepts—they're visible and verifiable on-chain.
+ 
+Another small realization from this challenge:
+
+An explorer isn't creating the blockchain data. It's making the data already on-chain easier for humans to understand.
+
+The more I explore, the more the pieces from the previous days start connecting.

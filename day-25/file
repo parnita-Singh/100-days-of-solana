@@ -1,0 +1,18 @@
+Today I went deeper into Solana's account model and started understanding the hierarchy behind different types of accounts.
+The interesting part is that a wallet, a program, and a sysvar may look completely different conceptually, but they all follow the same basic account structure:
+lamports • data • owner • executable • rent_epoch
+What clicked for me was understanding the role of the System Program.
+A normal wallet account is owned by the System Program:
+
+Wallet
+   ↓
+System Program
+   ↓
+Creates accounts + handles SOL transfers
+
+Then there are native programs, which are executable accounts, and sysvar accounts, which provide read-only information about the current state of the Solana network.
+The Web2 analogy helped a lot:
+System Program - OS kernel
+ Sysvars -  /proc
+ Wallet - user-space process
+The more I learn about Solana's account hierarchy, the more the pieces from the previous days start connecting.
