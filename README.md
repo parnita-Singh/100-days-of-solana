@@ -14,18 +14,6 @@ actual code. This repo is my public proof of work.
 - **Framework:** @solana/kit
 - **Network:** Devnet (for now)
 
-## Progress
-
-| Day | Challenge | Concepts Covered |
-|-----|-----------|-----------------|
-| 01 | [Identity & First Wallet](./day-01) | Keypairs, Ed25519, Devnet faucet |
-
-## Who Am I?
-
-ECE-AI student at IGDTUW Delhi | SheFi Season 16 Scholar | 
-GSSoC'26 Contributor (Top 3% of 45k+) | Building 
-[@mochi](https://github.com/yourusername/mochi) — an AI budget tracker
-
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/parnita-s-901a32378/
 
